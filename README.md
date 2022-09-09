@@ -8,3 +8,4 @@ Matthew Recksiedler (mare8229) <br />
 
 Project: 
 Project will be awesome and have a nav bar
+It will also have login functionality
