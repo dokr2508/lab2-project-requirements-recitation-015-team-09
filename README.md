@@ -7,3 +7,6 @@ Trajan Pei (trpe3369) <br />
 Faez Alanazi (omgfayez) <br />
 
 This is a conflict
+
+Project:
+- Site will have a login feature with nav bar
