@@ -10,8 +10,8 @@ Dominik Krotzer (dokr2508) <br />
 Tien Vu (tivu4885) <br />
 Trajan Pei (trpe3369) <br />
 Faez Alanazi (omgfayez) <br />
-Raleigh Darcy (rada2150) <br />
 Matthew Recksiedler (mare8229) <br />
+Raleigh Darcy (rada2150) <br />
 
 This is a conflict
 
