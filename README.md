@@ -12,9 +12,6 @@ Matthew Recksiedler (mare8229) <br />
 
 This is a conflict
 
-This is a conflict.
-
-
 Project:
 - Site will have a login feature with nav bar
-
+- Support page
